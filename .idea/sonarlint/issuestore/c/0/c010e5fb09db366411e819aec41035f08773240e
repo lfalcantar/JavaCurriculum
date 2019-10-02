@@ -1,0 +1,8 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(œÏäÔøÿÿÿÿ8±ùÅ¯Ø-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(¯ ¨Îýÿÿÿÿ8ŠØÄ¯Ø-
+Fsquid:S1481"*Remove this unused "price" local variable.(¤ü¯ø8©¹Ë¯Ø-
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô†îŽ
+Usquid:S1854"9Remove this useless assignment to local variable "price".(¤ü¯ø8©¹Ë¯Ø-
