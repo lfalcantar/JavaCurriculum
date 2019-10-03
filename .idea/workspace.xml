@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c0bff65-2ffe-4a9b-a33a-c6fc4bd9d38d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gm/tutorial/basics/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gm/tutorial/basics/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gm/tutorial/basics/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gm/tutorial/basics/Functions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gm/tutorial/basics/FunctionsConditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gm/tutorial/basics/FunctionsConditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gm/tutorial/basics/FunctionsReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gm/tutorial/basics/FunctionsReturn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gm/tutorial/basics/IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gm/tutorial/basics/IfStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gm/tutorial/basics/IfStatementsPart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gm/tutorial/basics/IfStatementsPart2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gm/tutorial/basics/IfStatementsPart3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gm/tutorial/basics/IfStatementsPart3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gm/tutorial/basics/VariablesDeclaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gm/tutorial/basics/VariablesDeclaration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gm/tutorial/basics/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gm/tutorial/basics/WhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gm/tutorial/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gm/tutorial/calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/Functions.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/Functions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/FunctionsConditions.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/FunctionsConditions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/IfStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/IfStatements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/IfStatementsPart2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/IfStatementsPart2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/IfStatementsPart3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/IfStatementsPart3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/VariablesDeclaration.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/VariablesDeclaration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/WhileLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/gm/tutorial/basics/WhileLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/gm/tutorial/calculator/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/gm/tutorial/calculator/Calculator.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -32,7 +30,19 @@
         <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/calculator/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="75" column="30" lean-forward="true" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
+              <caret line="75" column="30" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/calculator/PasswordStrength.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/basics/Functions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="255">
+              <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
               <folding>
                 <element signature="e#327#328#0" expanded="true" />
                 <element signature="e#364#365#0" expanded="true" />
@@ -75,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/basics/FunctionsReturn.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding>
                 <element signature="e#362#363#0" expanded="true" />
                 <element signature="e#387#388#0" expanded="true" />
@@ -97,7 +107,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/basics/ForLoop.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -105,17 +115,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/basics/FunctionsConditions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="71" lean-forward="true" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/basics/IfStatementsPart2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+            <state relative-caret-position="360">
+              <caret line="24" column="108" selection-start-line="24" selection-start-column="108" selection-end-line="24" selection-end-column="108" />
             </state>
           </provider>
         </entry>
@@ -163,6 +164,9 @@
         <option value="$PROJECT_DIR$/src/com/gm/tutorial/basics/Functions.java" />
         <option value="$PROJECT_DIR$/src/com/gm/tutorial/basics/FunctionsReturn.java" />
         <option value="$PROJECT_DIR$/src/com/gm/tutorial/basics/FunctionsConditions.java" />
+        <option value="$PROJECT_DIR$/src/com/gm/tutorial/calculator/Security.java" />
+        <option value="$PROJECT_DIR$/src/com/gm/tutorial/calculator/PasswordStreng.java" />
+        <option value="$PROJECT_DIR$/src/com/gm/tutorial/calculator/PasswordStrength.java" />
       </list>
     </option>
   </component>
@@ -241,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.PasswordStrength">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gm.tutorial.calculator.Calculator" />
       <module name="Tutorial" />
@@ -284,8 +288,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfStatementsPart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gm.tutorial.basics.IfStatementsPart2" />
+    <configuration name="IfStatementsPart3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gm.tutorial.basics.IfStatementsPart3" />
       <module name="Tutorial" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -298,13 +302,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfStatementsPart3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gm.tutorial.basics.IfStatementsPart3" />
+    <configuration name="PasswordStrength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gm.tutorial.calculator.PasswordStrength" />
       <module name="Tutorial" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gm.tutorial.basics.*" />
+          <option name="PATTERN" value="com.gm.tutorial.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,11 +340,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PasswordStrength" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.FunctionsConditions" />
         <item itemvalue="Application.IfStatementsPart3" />
-        <item itemvalue="Application.IfStatementsPart2" />
       </list>
     </recent_temporary>
   </component>
@@ -355,18 +359,18 @@
       <option name="presentableId" value="Default" />
       <updated>1569905706894</updated>
       <workItem from="1569905709728" duration="7004000" />
-      <workItem from="1570080998931" duration="2598000" />
+      <workItem from="1570080998931" duration="3622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9602000" />
+    <option name="totallyTimeSpent" value="10626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="0" width="2560" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24106434" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24106434" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -379,13 +383,13 @@
       <window_info id="Issue Summary" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.097838454" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38019803" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32970297" />
       <window_info anchor="bottom" id="Docker" order="9" />
       <window_info anchor="bottom" id="CheckStyle" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -462,27 +466,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/calculator/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/basics/ForLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="75" column="30" lean-forward="true" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/basics/Functions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/basics/ForLoop.java">
+    <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/basics/FunctionsConditions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="360">
+          <caret line="24" column="108" selection-start-line="24" selection-start-column="108" selection-end-line="24" selection-end-column="108" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/basics/FunctionsReturn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding>
             <element signature="e#362#363#0" expanded="true" />
             <element signature="e#387#388#0" expanded="true" />
@@ -490,20 +502,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/basics/FunctionsConditions.java">
+    <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/calculator/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="71" lean-forward="true" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
+        <state relative-caret-position="210">
+          <caret line="75" column="30" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/basics/Functions.java">
+    <entry file="file://$PROJECT_DIR$/src/com/gm/tutorial/calculator/PasswordStrength.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
