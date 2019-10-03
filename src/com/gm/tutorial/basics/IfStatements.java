@@ -7,18 +7,8 @@ public class IfStatements {
 
     public static void main(String[] args) {
 
-        int counter = 10;
-        if(counter < 10) {
-            System.out.println("less than 10");
-        }
+        int price = 100;
 
-        if(counter == 10) {
-            System.out.println("equal than 10");
-        }
-
-        if(counter > 10) {
-            System.out.println("bigger than 10");
-        }
-
+        // TODO Print to console "maybe next time" IF the price is BIGGER OR EQUAL to 100.
     }
 }

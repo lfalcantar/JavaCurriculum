@@ -1,5 +1,6 @@
 package com.gm.tutorial.calculator;
 
+import java.util.Base64;
 import java.util.Scanner;
 
 public class Calculator {
@@ -17,7 +18,7 @@ public class Calculator {
         Scanner scanner = new Scanner(System.in);
 
         String userInput = "";
-        String validOptions = "+-/*";
+        String validOptions = "+-/*?";
         System.out.println("Please select one of the possible options " + validOptions + ". Or x for exit");
         do {
 
@@ -145,6 +146,10 @@ public class Calculator {
 
         return String.valueOf(result);
     }
+
+
+    // TODO Add more another functionality to the calculator like MAX(M), MIN (N), power (^)
+
 
 
 }

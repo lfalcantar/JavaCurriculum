@@ -7,20 +7,20 @@ public class ForLoop {
 
     public static void main(String[] args) {
 
-        for(int i = 0; i <= 15; i = i + 1 ){
-            System.out.println(i);
-        }
+        // TODO Create new for loop to go from 0 to 15
 
-        // 1 initialization  int i=0
+        // TODO crete new for loop from 0 to 10 only print even numbers
 
-        // 2 check 0 < 15
-        // 3 body System...
-        // 4 update  i = i + 1
+        /* HINT
 
-        // 2 check 1 < 15
-        // 3 body System...
-        // 4 update i = i + 1
+            int quotient = number/2;
+            if(quotient*2== number){
+                System.out.println("Even number");
+            }
 
-        // TODO Create new for loop to go from 15 to 0
+            if you have time
+            Search for Modules %
+            http://www.cafeaulait.org/course/week2/15.html
+         */
     }
 }

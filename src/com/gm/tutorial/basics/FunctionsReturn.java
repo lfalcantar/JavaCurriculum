@@ -15,4 +15,7 @@ public class FunctionsReturn {
     private static int functionThatReturnsANumber() {
         return 21;
     }
+
+    // TODO Create a new function with name getCharacterValue that returns a char and print the char to the console
+    // TODO Create a new function with name getBooleanValue that returns a boolean and print the boolean to the console
 }

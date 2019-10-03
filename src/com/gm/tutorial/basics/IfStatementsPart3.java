@@ -7,18 +7,13 @@ public class IfStatementsPart3 {
 
     public static void main(String[] args) {
 
-        /**
-         *  || ->  or
-         *  && -> and
-         */
+        char size = 'm';
+        int price = 100;
+        int budget = 10;
+        int disscount = 90;
 
-        char letter = 'v';
+        // TODO print to console "sold out" IF the size NOT EQUAL to 'm' OR price is LESS OR EQUAL than 100
 
-        if(letter == 'b' || letter == 'v') {
-            System.out.println("letter b or v");
-        } else {
-            System.out.println("invalid input");
-        }
-
+        // TODO print to console "I will take one" IF the price minus the discount IS EQUAL to budget AND size is 'm'
     }
 }

@@ -9,17 +9,10 @@ package com.gm.tutorial.basics;
 public class VariablesDeclaration {
 	public static void main(String[] args) {
 
-		char letter = 'C';
-		boolean falseStatement = false;
-		int firstNumber = 0;
-		int secondNumber = 15;
-		int result = 10;
-		
-		System.out.println(letter);
-		System.out.println(falseStatement);
-		System.out.println(firstNumber);
 
-		// TODO set values to letter, falseStatement, and nextNumber.
-		// TODO add first number + second number and store the sum in result
+	// TODO Declare char letter, boolean falseStatement, int nextNumber, int firstNumber, and int lastNumber;
+	// TODO assign values to all variables
+	// TODO print all variables to console
+	// TODO add first number + second number and store the sum in result
 	}
 }
