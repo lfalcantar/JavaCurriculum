@@ -1,14 +1,7 @@
 
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ËïÛÿÿÿÿÿ
-\squid:S1854"@Remove this useless assignment to local variable "secondNumber".(ë‡ïÜ8½Äõ¯Ø-
-Ssquid:S1135"2Complete the task associated to this TODO comment.(³µØÉÿÿÿÿÿ8›“Ú¯Ø-
-Usquid:S1854":Remove this useless assignment to local variable "result".(Â•ƒ(8ô´ö¯Ø-
-Ssquid:S1135"2Complete the task associated to this TODO comment.(Ÿ•€Œıÿÿÿÿ8ú–÷¯Ø-
-Ssquid:S1135"2Complete the task associated to this TODO comment.(›×âòûÿÿÿÿ8Ÿ„ø¯Ø-
-Msquid:S1481"1Remove this unused "secondNumber" local variable.(ë‡ïÜ8½Äõ¯Ø-
-Fsquid:S1481"+Remove this unused "result" local variable.(Â•ƒ(8ô´ö¯Ø-
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(·Äæßÿÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(šîØÃ
+Usquid:S1135"2Complete the task associated to this TODO comment.(®…ìÿÿÿÿÿ8ñÆ—‚Ù-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÁÔ±Ëûÿÿÿÿ8öå‚Ù-
+Usquid:S1135"2Complete the task associated to this TODO comment.(³µØÉÿÿÿÿÿ8›“Ú¯Ø-
+Usquid:S1135"2Complete the task associated to this TODO comment.(ÁÔ±Ëûÿÿÿÿ8ú–÷¯Ø-
+Usquid:S1135"2Complete the task associated to this TODO comment.(›×âòûÿÿÿÿ8Ÿ„ø¯Ø-
+Usquid:S1135"2Complete the task associated to this TODO comment.(‹öÉ ÿÿÿÿÿ8à¦‚Ù-

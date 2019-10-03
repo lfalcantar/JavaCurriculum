@@ -10,7 +10,7 @@ public class IfStatementsPart3 {
         char size = 'm';
         int price = 100;
         int budget = 10;
-        int disscount = 90;
+        int discount = 90;
 
         // TODO print to console "sold out" IF the size NOT EQUAL to 'm' OR price is LESS OR EQUAL than 100
 

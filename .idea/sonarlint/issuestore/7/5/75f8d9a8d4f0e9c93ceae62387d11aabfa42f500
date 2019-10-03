@@ -1,5 +1,13 @@
 
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(˜§™ˆ8º•Ğ¯Ø-
-S
-squid:S106"9Replace this use of System.out or System.err by a logger.(±¨8úõÑ¯Ø-
+Psquid:S1135"2Complete the task associated to this TODO comment.(»ÄÍÀ8¼›‚Ù-
+Lsquid:S1481".Remove this unused "disscount" local variable.(ßÿ¤û8Î¢¡‚Ù-
+Osquid:S1135"2Complete the task associated to this TODO comment.(Æ©üz8ÓæŸ‚Ù-
+Gsquid:S1481
+")Remove this unused "size" local variable.(ÑıË±8–•š‚Ù-
+Msquid:S1481"*Remove this unused "price" local variable.(Ù‘…†úÿÿÿÿ8à×›‚Ù-
+[squid:S1854"=Remove this useless assignment to local variable "disscount".(ßÿ¤û8Î¢¡‚Ù-
+Wsquid:S1854":Remove this useless assignment to local variable "budget".(¸–Œ8Î¢¡‚Ù-
+\squid:S1854"9Remove this useless assignment to local variable "price".(Ù‘…†úÿÿÿÿ8à×›‚Ù-
+Hsquid:S1481"+Remove this unused "budget" local variable.(¸–Œ8Î¢¡‚Ù-
+Vsquid:S1854
+"8Remove this useless assignment to local variable "size".(ÑıË±8–•š‚Ù-

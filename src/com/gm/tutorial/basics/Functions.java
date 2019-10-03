@@ -15,5 +15,5 @@ public class Functions {
         System.out.println(i);
     }
 
-    // TODO create a new function that returns the number 11 (int)
+    // TODO create a new function that prints a characters
 }

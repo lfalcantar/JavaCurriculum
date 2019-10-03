@@ -95,7 +95,8 @@ public class Calculator {
     }
 
     /**
-     TODO Calculate sum X  AND Y AND RETURN THE VALUE
+     TODO Calculate the difference between X and Y AND RETURN THE VALUE
+     [ ] if negative numbers return -1
      */
     public static String calculateSubtraction(int x , int y) {
         int result = 0;
@@ -109,12 +110,12 @@ public class Calculator {
         TODO calculate multiplication by a combinations of sums
 
         For example
-        6 * 4  = 24  |  6 + 6 + 6 + 6 =  24 | 4 + 4 + 4 + 4 + 4 + 4 = 24
+     6 + 6 + 6 + 6 =  24 | 4 + 4 + 4 + 4 + 4 + 4 = 24
 
-        while
+        while|for
 
         constraints
-        [ ] cannot accept no negative numbers
+        [ ] if negative numbers return -1
     */
     public static String calculateMultiplication(int x , int y) {
 	    int result  = 0;
@@ -128,7 +129,7 @@ public class Calculator {
      TODO calculate division by a combinations of sums
 
      For example
-     24 / 6  =  4 |  6 - 6 - 6 - 6 =  0 | 4 - 4 - 4 - 4 - 4 - 4 = 0
+     6 - 6 - 6 - 6 =  0 | 4 - 4 - 4 - 4 - 4 - 4 = 0
 
      create variable to store counter
 

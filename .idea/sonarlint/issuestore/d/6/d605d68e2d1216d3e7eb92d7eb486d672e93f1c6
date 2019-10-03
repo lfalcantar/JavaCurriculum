@@ -1,0 +1,18 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÁÕˆ¼üÿÿÿÿ8§•¹ƒÙ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(õÑØ¦ûÿÿÿÿ8§•¹ƒÙ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(üí—Ÿ8§•¹ƒÙ-
+ysquid:S2068
+"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(ŞŠ«´ÿÿÿÿÿ8†ÃƒÙ-
+ysquid:S2068"V'Password' detected in this expression, review this potentially hard-coded credential.(À…ñúÿÿÿÿ8†ÃƒÙ-
+}squid:S3008
+"ZRename this field "SECURE_PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŠ«´ÿÿÿÿÿ8†ÃƒÙ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÚîƒÊüÿÿÿÿ8†ÃƒÙ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÀÄ˜8†ÃƒÙ-
+dsquid:S1126"AReplace this if-then-else statement by a single return statement.(À…ñúÿÿÿÿ8†ÃƒÙ-
+Psquid:S1135"2Complete the task associated to this TODO comment.(ä×¹Ş8†ÃƒÙ-

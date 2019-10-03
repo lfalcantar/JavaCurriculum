@@ -13,6 +13,6 @@ public class VariablesDeclaration {
 	// TODO Declare char letter, boolean falseStatement, int nextNumber, int firstNumber, and int lastNumber;
 	// TODO assign values to all variables
 	// TODO print all variables to console
-	// TODO add first number + second number and store the sum in result
+	// TODO add first number + second number and store the  int sum. Print sum
 	}
 }
